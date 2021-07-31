@@ -1,0 +1,42 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.bg-color{
+    background: #264653;
+}
+#text-colour{
+    color: white;
+}
+.button-colour{
+    background: #E76F51;
+    
+}
+.text-color{
+    color: #E76F51;
+    
+
+}
+.img {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+  }
+  .icon{
+
+      color: #E76F51;
+  }
+  .text-colour-2{
+    color: #23A6F0;
+
+  }
+  .img-radious{
+    width: 266px;
+    height:266px;
+    border: 2px solid rgb(185, 182, 182);
+    overflow: hidden;
+    border-radius: 50%;
+
+
+  }
